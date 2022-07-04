@@ -1,3 +1,5 @@
+// Comment in the index.js file and testing of command line git 
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
